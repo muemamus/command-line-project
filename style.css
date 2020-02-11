@@ -1,0 +1,37 @@
+.Green{
+    background-color: green;
+}
+
+.Red{
+    background-color: red;
+}
+
+.Blue{
+    background-color: blue;
+}
+
+.Orange{
+    background-color: orange;
+}
+
+.box{
+
+    border-radius:10px ;
+    border:#001609 solid black 2px;
+    margin:100px;
+    padding:50px;
+    width:40px;
+    height:40px;
+    text-align:center;
+    border-color: black;
+
+
+}
+
+.container{
+    display:flex;
+    flex-direction:row-reverse;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
